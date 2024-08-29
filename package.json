@@ -19,6 +19,7 @@
   "homepage": "https://github.com/DenisDoroshchuk/denisdoroshchuk.github.io#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
+    "favicons-webpack-plugin": "^6.0.1",
     "html-webpack-plugin": "^5.6.0",
     "sass": "^1.77.8",
     "sass-loader": "^16.0.1",
